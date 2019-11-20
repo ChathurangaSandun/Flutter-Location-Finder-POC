@@ -1,0 +1,26 @@
+{
+    "city": "colombo",
+    "positionList" : [
+        {
+          "markId": "personone",
+           "lat": 6.911847,
+           "long": 79.855947,
+           "name": "Chathuranga",
+           "imageUrl": "https://png.pngtree.com/png-clipart/20190603/original/pngtree-smiling-business-people-png-image_96878.jpg"
+        },
+         {
+             "markId": "persontwo",
+           "lat": 6.912305,
+           "long": 79.851516,
+           "name": "sandun",
+           "imageUrl": "https://png.pngtree.com/png-clipart/20190603/original/pngtree-smiling-business-people-png-image_96878.jpg"
+        },
+         {
+             "markId": "personthree",
+           "lat": 6.915681,
+           "long": 79.854563,
+           "name": "kumara",
+           "imageUrl": "https://png.pngtree.com/png-clipart/20190603/original/pngtree-smiling-business-people-png-image_96878.jpg"
+        }
+    ]
+}
